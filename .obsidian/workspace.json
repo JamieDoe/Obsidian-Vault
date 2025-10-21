@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "be1ad5e61cd638a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec9f5ffe8bab0c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7914e48e0e74011",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "✅ Task Dashboard.canvas",
+                "viewState": {
+                  "x": -522.6931697101677,
+                  "y": -50.93183608062196,
+                  "zoom": -0.7654671775719718
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "✅ Task Dashboard"
+            }
+          },
+          {
+            "id": "53467f180d80f51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025-10-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-20"
+            }
+          },
+          {
+            "id": "e9bed9904bb240de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Productivity Manager/Productivity Manager - Initial Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Productivity Manager - Initial Ideas"
+            }
+          },
+          {
+            "id": "9978cb537651dd21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✅ Master Task List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "✅ Master Task List"
+            }
+          },
+          {
+            "id": "808488f6360472b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5473aed8a2b08c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f7a2645e560f691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5e2d8b6824b76f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e7a35dbdb16ade9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "463d8aad6e7cc312",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.50390243530273
+  },
+  "right": {
+    "id": "88808ddc8bbe4558",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a83dcd62c251801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031e5e042c6cd0ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Productivity Manager/Productivity Manager - Initial Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Productivity Manager - Initial Ideas"
+            }
+          },
+          {
+            "id": "dce4c9cf2ae9aa9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "834fd5f2fcd23dbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b77521fcf081ea93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e9bed9904bb240de",
+  "lastOpenFiles": [
+    "README.md",
+    "Daily Notes/2025-10-20.md",
+    "✅ Master Task List.md",
+    "✅ Task Dashboard.canvas",
+    "Projects/Bible Discussion App/Bible Discussion App - Idea.md",
+    "Projects/Bible Discussion App/Bible Discussion App - Home.md",
+    "Projects/Productivity Manager/Productivity Manager - Initial Ideas.md",
+    "Daily Notes/2025-10-17.md",
+    "Daily Notes/2025-10-18.md",
+    "Spect Recruitment.md",
+    "Daily Notes/Daily Note Template.md",
+    "🏠 Home.md",
+    "Books/Reading List.md",
+    "Projects/Productivity Manager/Productivity Manager - Home.md",
+    "Projects/Bible Discussion App",
+    "💻 Work/Untitled.md",
+    "💻 Work",
+    "Books",
+    "2025-10-17.md",
+    "Daily Notes",
+    "Projects/Salespersona/SalesPersona - Marketing & Sales Plan.md",
+    "Projects/Salespersona/SalesPersona - Home.md",
+    "Projects/Productivity Manager/Untitled.md",
+    "Projects/Productivity Manager",
+    "Projects/Salespersona/SalesPersona - ICP.md",
+    "Projects/Salespersona/Untitled.md",
+    "Projects/Productivity Manager/ICP.md",
+    "WDBD Content Models.md",
+    "VPC.pdf.png",
+    "Excalidraw/Value Proposition Canvas - Salespersona.excalidraw.md",
+    "Assets",
+    "Excalidraw/Drawing 2025-09-02 16.43.49.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-22 16.01.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-02 16.39.10.excalidraw.md",
+    "Projects/Productivity Manager",
+    "Projects",
+    "Projects/Salespersona",
+    "Untitled 1.base"
+  ]
+}

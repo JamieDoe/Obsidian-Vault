@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"9170d108aa28371f","type":"text","text":"# Completed","x":40,"y":-600,"width":440,"height":67},
+		{"id":"2b639922293d9d1b","type":"text","text":"```tasks\ndone\nfilename does not include Chronological Bible Reading Plan\nhide tags\nshort mode\n```\n","x":41,"y":-517,"width":440,"height":917},
+		{"id":"01fc9889f1e1a6a1","type":"text","text":"# This Month","x":-480,"y":-597,"width":440,"height":67,"color":"6"},
+		{"id":"55e26d3788d310a0","type":"text","text":"```tasks\nnot done\n(has due date) OR (has scheduled date)\n((due after next week) AND (due in or before next 4 weeks)) OR ((scheduled after this week) AND (scheduled in or before next 4 weeks))\nfilename does not include Chronological Bible Reading Plan\nsort by due\nhide tags\nshort mode\n```\n","x":-480,"y":-517,"width":440,"height":400,"color":"6"},
+		{"id":"a0c363e71f67c01f","type":"text","text":"# Unscheduled","x":-480,"y":-80,"width":440,"height":67},
+		{"id":"f28cfc3c7510e135","type":"text","text":"```tasks\nnot done\n(no due date) AND (no scheduled date) AND (no start date)\nfilename does not include Chronological Bible Reading Plan\nhide tags\nlimit 8\nshort mode\n```\n","x":-480,"y":0,"width":440,"height":400},
+		{"id":"2e588745053886d5","type":"text","text":"# This Week","x":-980,"y":-597,"width":460,"height":67,"color":"5"},
+		{"id":"1a901f6736e8860b","type":"text","text":"```tasks\nnot done\n(due before next week) OR (scheduled before next week)\nfilename does not include Chronological Bible Reading Plan\nsort by due\nshort mode\n```\n","x":-980,"y":-517,"width":460,"height":400,"color":"5"},
+		{"id":"4556060054171a6f","type":"text","text":"```tasks\nnot done\npriority is High\nfilename does not include Chronological Bible Reading Plan\nsort by due\nshort mode\n```\n","x":-980,"y":0,"width":460,"height":400,"color":"1"},
+		{"id":"e8582e97626a080b","type":"text","text":"# High Priority","x":-980,"y":-80,"width":460,"height":67,"color":"1"},
+		{"id":"c7e84483d0d3bd0d","type":"text","text":"# Today","x":-1460,"y":-597,"width":440,"height":67,"color":"2"},
+		{"id":"2372dd2987e4befa","type":"text","text":"```tasks\nnot done\n(due before tomorrow) OR (scheduled before tomorrow) \nfilename does not include Chronological Bible Reading Plan\nsort by due\nshort mode\n```\n","x":-1460,"y":-517,"width":440,"height":400,"color":"2"},
+		{"id":"1e31b9e158440131","type":"text","text":"# Completed Today","x":-1460,"y":-80,"width":440,"height":67,"color":"#4deaff"},
+		{"id":"99439f0d2c89d979","type":"text","text":"```tasks\ndone\ndone date is today\nfilename does not include Chronological Bible Reading Plan\nhide tags\nshort mode\n```\n","x":-1460,"y":0,"width":440,"height":400,"color":"#4deaff"}
+	],
+	"edges":[]
+}
