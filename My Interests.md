@@ -1,0 +1,74 @@
+- Literature
+	- Books
+	- Reading
+	- Manuscripts
+	- Biographies
+	- Research papers
+- Mechanics
+	- Cars
+	- Planes
+- Computing
+	- Programming
+	- Computer parts
+	- Accessories
+- Music
+	- Instruments
+	- Singing
+	- Quality
+- Model making
+	- Paints
+	- Kits
+	- Accessories
+	- Tools
+- Science
+	- Astronomy
+	- Physics
+	- Climate
+- Watches
+	- Specs
+	- Brands
+	- Craftsmanship
+- Self help
+	- Wellbeing
+	- Mental health
+	- Physical health
+- Fitness
+	- Goals
+	- Tracking
+	- Progression
+- Food
+	- Ingredients
+	- Calorie tracking
+	- Cooking
+- Photography
+	- Cameras
+	- Accessories
+	- Locations
+	- Methods
+- Education
+- Finance
+	- Personal finance
+	- Investing
+- Real Estate
+	- Property valuation
+	- Renovations
+	- Landlordship
+	- Property management
+	- Property market
+- Alcohol
+	- Wine
+	- Beer
+	- Whiskey
+	- Tracking
+	- Calories
+	- Quality
+- Polotics
+	- Bridging devide
+- Christianity
+	- Bible
+	- God
+	- Jesus
+	- Discipleship 
+	- Community
+- Gaming
+- 
